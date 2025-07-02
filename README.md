@@ -1,42 +1,108 @@
-**Description:**  
-This repository is a collection of beginner-friendly JavaScript projects designed to help you practice and improve your front-end development skills. Each project focuses on core JavaScript concepts, DOM manipulation, and interacting with APIs. Whether you're a beginner or looking to refresh your skills, these projects are a great way to build practical applications.
+# 🧩 JavaScript Projects Collection
 
-### Projects Included:
-1. **To-Do App**  
-   - A simple task management app where users can add, edit, mark as complete, and delete tasks.  
-   - Features: Local storage integration to persist tasks.
+A curated collection of beginner-friendly JavaScript projects designed to sharpen your frontend development fundamentals. These mini-apps help you master core concepts like DOM manipulation, event handling, API integration, and local storage — all with clean, responsive UIs.
 
-2. **Weather App**  
-   - A weather application that fetches real-time weather data using a weather API (e.g., OpenWeatherMap).  
-   - Features: Search for weather by city, display temperature, humidity, and weather conditions.
+Perfect for 🎓 beginners, 💼 portfolio builders, or anyone revisiting JavaScript basics through hands-on learning.
 
-3. **Expense Tracker**  
-   - A budgeting app to track income and expenses.  
-   - Features: Add transactions, calculate total balance, and display a history of transactions.
+---
 
-4. **Shopping Cart**  
-   - A mock e-commerce shopping cart where users can add/remove items and calculate the total cost.  
-   - Features: Dynamic updates to the cart and total price.
+## 🛠️ Tech Stack
 
-5. **Quiz App**  
-   - A fun and interactive quiz application with multiple-choice questions.  
-   - Features: Score tracking, and feedback on correct/incorrect answers.
+- 🧠 **JavaScript (ES6+)** – Core logic and interactivity  
+- 🧾 **HTML5 & CSS3** – Markup and styling  
+- 🌐 **Fetch API** – For external API integration  
+- 💾 **Local Storage** – Client-side data persistence  
+- 📱 **Responsive Design** – Mobile-first approach
 
-### Technologies Used:
-- HTML5, CSS3, JavaScript (ES6+)  
-- Fetch API for weather app  
-- Local Storage for data persistence  
-- Responsive design for mobile and desktop
+---
 
-### How to Use:
-1. Clone the repository:  
+## 📂 Projects Overview
+
+### ✅ To-Do App 🗒️  
+A classic task manager with full CRUD operations.
+
+- ➕ Add, ✏️ edit, 🗑️ delete, and ✅ mark tasks as complete  
+- 💾 Tasks persist via `localStorage`  
+- 🧼 Minimalistic UI for focus
+
+![To-Do App](assets/screenshots/to-do.jpeg)
+
+---
+
+### 🌦️ Weather App  
+Fetches real-time weather using OpenWeatherMap API.
+
+- 🔍 Search by city  
+- 🌡️ Displays temperature, 💧 humidity, and conditions  
+- 🚫 Handles invalid city errors
+
+![Weather App](assets/screenshots/weather-app.jpeg)
+
+---
+### 🛒 Shopping Cart  
+Mock e-commerce cart functionality.
+
+- 🧺 Add/remove items dynamically  
+- 💰 Calculate total cost instantly  
+- 🔄 Realtime cart updates in UI
+
+![Shopping Cart](assets/screenshots/shopping-cart.jpeg)
+
+---
+
+### 💸 Expense Tracker  
+A personal finance tracker for budgeting.
+
+- ➕ Add income and expense entries  
+- 📊 Displays current balance and transaction history  
+- ♻️ Dynamic DOM updates with stored data
+
+![Expense Tracker](assets/screenshots/expense-tracker.jpeg)
+
+---
+
+### ❓ Quiz App  
+Interactive quiz game with scoring system.
+
+- 🧠 Multiple-choice questions  
+- ✅ Shows feedback for correct/incorrect answers  
+- 🏆 Tracks and displays score
+
+![Quiz App](assets/screenshots/quiz-app-1.jpeg)
+![Quiz App](assets/screenshots/quiz-app-2.jpeg)
+![Quiz App](assets/screenshots/quiz-app-3.jpeg)
+
+---
+
+## 📘 Key Concepts Practiced
+
+- 🧩 DOM manipulation & event listeners  
+- 🔁 Looping & array methods  
+- 🗃️ State management without frameworks  
+- 💾 LocalStorage handling  
+- 📡 API integration with `fetch`  
+- 🎨 Responsive layout and clean CSS design
+
+---
+
+## 🚀 How to Use
+
+1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/javascript-basic-projects.git
-   ```
-2. Navigate to the project folder:  
+   git clone https://github.com/Dhruv-201004/JS-Projects.git
+
+
+2. **Navigate into the project folder**
+
    ```bash
-   cd javascript-basic-projects
+   cd JS-Projects
    ```
-3. Open the `index.html` file of any project in your browser to view it.
+
+3. **Open any project’s `index.html` in your browser**
+   No build tools required.
+
+---
+
+👨‍💻 Built with 💙 by [Dhruv](https://github.com/Dhruv-201004)
 
 
